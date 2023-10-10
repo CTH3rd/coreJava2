@@ -17,7 +17,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 /**
  * 
  */
-public class ReeadingExcel {
+public class ReadingExcel {
 
 	/**
 	 * @param args
